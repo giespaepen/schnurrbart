@@ -1,0 +1,7 @@
+node_modules
+coverage
+test/log
+**/.DS_Store
+.DS_Store
+.wercker
+.well-known

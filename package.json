@@ -1,0 +1,17 @@
+{
+  "name": "schnurrbart",
+  "version": "0.1.0",
+  "description": "Handlebars based T4-style code generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test/test.js"
+  },
+  "keywords": [
+    "Code",
+    "Generation",
+    "Text",
+    "Templating"
+  ],
+  "author": "Gie Spaepen",
+  "license": "MIT"
+}
